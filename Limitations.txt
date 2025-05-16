@@ -1,0 +1,6 @@
+⚠️ Limitations
+No password encryption
+
+No file-based persistence for students, attendance, or assignments
+
+All student data lost on exit
